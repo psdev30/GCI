@@ -12,6 +12,7 @@
 
 # Attempt 1: 4/3/22
 # had basic idea of two pointers, one fast & one slow, but couldn't get working solution
+# https://www.notion.so/Remove-Duplicates-2aaf3f2d98814221b4f581a7dd2b170d
 def remove_duplicates(arr):
     slow = 1
     for i in range(1, len(arr)):
