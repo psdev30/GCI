@@ -19,7 +19,7 @@
 # Output: 6
 # Explanation: The longest substring with no more than '10' distinct characters is "cbbebi".
 
-# solve 1: 3/4/22 (looked at solution)
+# solve 2: 4/6/22 (one bug --> if instead of while)
 #time: O(2n) -> O(n)
 #space: O(K + 1)
 # https://www.notion.so/Longest-Substring-with-maximum-K-Distinct-Characters-38076943c5234420a230a239c6d89d64
